@@ -64,7 +64,13 @@ body {
     font-size: 25px;
     color: black;
     text-align: center;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
+}
+.predi2{
+    font-size: 25px;
+    color: black;
+    background-color: rgb(175, 175, 175);
+    text-align: center;
 }
 
 .mapita{
@@ -74,3 +80,4 @@ body {
     padding: 0px 50px 50px 50px;
     width: 50%;
 }
+

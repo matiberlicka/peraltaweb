@@ -81,3 +81,11 @@ body {
     width: 50%;
 }
 
+
+
+/* mapa terri */
+.mapaterri{
+    margin: auto;
+    display: block;
+    width: 100%;
+}

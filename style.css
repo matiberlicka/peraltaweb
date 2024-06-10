@@ -89,3 +89,15 @@ body {
     display: block;
     width: 100%;
 }
+
+
+.noencasa{
+  text-align: center;
+  font-size: 25px;
+}
+
+input{
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+}
